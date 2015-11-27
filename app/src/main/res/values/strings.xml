@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Projet</string>
+
+    <string name="underTitle">Same... but different!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">FORUM</string>
+    <string name="titleFavorite">Your favorites</string>
+    <string name="title_activity_favorite_forum">favorite_forum</string>
+
+    <string name="favoriteTitle">Your favorites</string>
+    <string name="Tags">Tags</string>
+
+</resources>
